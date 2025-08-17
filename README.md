@@ -13,7 +13,7 @@
 **A streamlined frontend application for quickly accessing key information from MangoDesk.**
 
 [Live Demo](https://mangodesk-in-a-minute-fe.vercel.app) |
-[Documentation](https://TODO: Add documentation link)
+[Documentation](https://github.com/erinpaul2002/mangodesk-in-a-minute-fe/tree/main/docs)
 
 </div>
 
@@ -30,8 +30,8 @@ This Next.js application provides a user-friendly interface for rapidly accessin
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](path-to-screenshot) <!-- TODO: Add actual screenshots -->
-![Screenshot 2](path-to-screenshot) <!-- TODO: Add mobile screenshots -->
+![Screenshot 1](public/screenshot.png) <!-- TODO: Add actual screenshots -->
+
 
 ## 🛠️ Tech Stack
 
