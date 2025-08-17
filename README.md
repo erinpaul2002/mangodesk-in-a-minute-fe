@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](path-to-logo) <!-- TODO: Add project logo -->
+![Logo](public/favicon.png) <!-- TODO: Add project logo -->
 
 [![GitHub stars](https://img.shields.io/github/stars/erinpaul2002/mangodesk-in-a-minute-fe?style=for-the-badge)](https://github.com/erinpaul2002/mangodesk-in-a-minute-fe/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/erinpaul2002/mangodesk-in-a-minute-fe?style=for-the-badge)](https://github.com/erinpaul2002/mangodesk-in-a-minute-fe/network)
